@@ -44,6 +44,7 @@ EXTERNAL_APPS = [
     
     'product_categories',
     'homepage',
+    'sale'
    
 ]
 
